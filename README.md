@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋,&nbsp; I'm Abdolrahamn</h1>
+<h1 align="center">Hi 👋,&nbsp; I'm Rahman</h1>
 <h3 align="left">A versatile software developer with 5+ years of experience designing, developing, and maintaining high-performance web applications.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifarshgar" alt="ifarshgar" /></a> </p> -->
