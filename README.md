@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-- 📫 How to reach me **ifarshgar@gmail.com**
+- 📫 How to reach me ifarshgar@gmail.com
 
 <br />
 <br />
