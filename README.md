@@ -166,7 +166,6 @@ Here are some ideas to get you started:
 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
-<!--       src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" -->
       src="https://user-images.githubusercontent.com/62756402/219742406-3705ec7a-8fb5-43cf-906e-1d59f5db93c6.png"
       alt="flask"
       width="40"
