@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none !important;
+  }
+</style>
+
 <h1 align="center">Hi 👋,&nbsp; I'm Rahman</h1>
 <h3 align="left">
   A versatile software developer with 6+ years of experience designing, developing, and maintaining
@@ -48,6 +54,15 @@
 <br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
+      alt="azure"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
