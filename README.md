@@ -7,9 +7,7 @@
 <br />
 <br />
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img src="https://github-profile-trophy.vercel.app/?username=ifarshgar&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="ifarshgar"
-  /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ifarshgar&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="ifarshgar" />
 </p>
 
 <br />
