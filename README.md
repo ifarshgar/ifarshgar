@@ -1,9 +1,3 @@
-<style>
-  a {
-    text-decoration: none !important;
-  }
-</style>
-
 <h1 align="center">Hi 👋,&nbsp; I'm Rahman</h1>
 <h3 align="left">
   A versatile software developer with 6+ years of experience designing, developing, and maintaining
